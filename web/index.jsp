@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title></title>
+    <title>Bse173084</title>
   </head>
   <body style="background-color:gray;">
   <div style="padding-left:25%;padding-top:12%">
